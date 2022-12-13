@@ -15,9 +15,9 @@ Usage of C:\Users\svf\Desktop\run.exe:
 
 # 演示视频  
 ## 解密文件  
-![]('/demo.gif')
+![](/demo.gif)
 ## 生成卸载码  
-![]('uninstall.gif')
+![](/uninstall.gif)
 
 # 其他说明  
 使用upx进行压缩，仅针对本单位加密的文件进行解密.  
