@@ -15,9 +15,15 @@ Usage of C:\Users\svf\Desktop\run.exe:
 
 # 演示视频  
 ## 解密文件  
-<video src="/" position= "absolute" width="100%" height="100%" controls="controls"></video>
+<!-- webm格式 -->
+<video id="video" controls="" preload="none" poster="">
+      <source id="webm" src="/demo.webm" type="video/webm">
+</videos>
 ## 生成卸载码  
-
+<!-- webm格式 -->
+<video id="video" controls="" preload="none" poster="">
+      <source id="webm" src="/uninstall.webm" type="video/webm">
+</videos>
 
 # 其他说明  
 使用upx进行压缩，仅针对本单位加密的文件进行解密.  
